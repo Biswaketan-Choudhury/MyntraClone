@@ -1,2 +1,2 @@
 # MyntraClone
-Just try to copy "Myntra" website
+Just try to copy Myntra website
